@@ -13,7 +13,6 @@ const App = () => {
       <Logos />
       <Contact />
       <Footer />
-      <div className="h-[200px]"></div>
     </>
   )
 }
